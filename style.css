@@ -1,0 +1,19 @@
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    margin: 0 auto;
+    column-gap: 2rem;
+  }
+  h1, p{
+      text-align: center;
+      font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  body{
+      background-color: blanchedalmond;
+  }
+  p{
+      border: 1px solid grey;
+  }
+  
